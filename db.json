@@ -1,3 +1,39 @@
 {
- "dogs" : [ ]  
-}
+    "dogs": [
+      {
+        "name": "Golden Retrievers",
+        "age": 10,
+        "place": "Dehradun",
+        "gender": "male",
+        "id": 1
+      },
+      {
+        "name": "Poodles",
+        "age": 12,
+        "place": "Dehradun",
+        "gender": "male",
+        "id": 2
+      },
+      {
+        "name": "Poodles",
+        "age": 13,
+        "place": "Dehradun",
+        "gender": "female",
+        "id": 3
+      },
+      {
+        "name": "Bulldogs",
+        "age": 15,
+        "place": "Dehradun",
+        "gender": "male",
+        "id": 4
+      },
+      {
+        "name": "Dachshunds",
+        "age": 16,
+        "place": "Dehradun",
+        "gender": "female",
+        "id": 5
+      }
+    ]
+  }
